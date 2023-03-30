@@ -1,0 +1,10 @@
+target/**
+webapp/target
+spring-utils/target
+base/target
+docker-compose.yaml
+Dockerfile
+Dockerfile.local
+**/.settings
+**/.classpath
+**/.project
